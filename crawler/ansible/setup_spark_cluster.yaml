@@ -1,0 +1,7 @@
+---
+- hosts: spark-slaves
+  tasks:
+    - name: copy shell
+      copy: src=./setup_spark.sh dest=~/ mode=0744
+    - name: run shell
+      shell: ~/setup_spark.sh

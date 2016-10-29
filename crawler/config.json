@@ -1,0 +1,8 @@
+{
+    "app_token":"MUcyvr6tYKamPdR7NWpKBa6cx",
+    "app_secret":"ux8YoMvmVxV8ebjJZh4X48RzYzy7b4ZR22QQCjTYsh4khQA8dL",
+    "access_token":"110147932-zEVDS0ge8dPyiMqBRJZWP3GpaYP79BesBe0atsy6",
+    "access_secret":"qQ1yXNthXdPDBfr1TwjCfX3lHylLsnvnUkCSDyZIAv6Ki",
+    "mongo_host":"localhost",
+    "mongo_port":27017
+}

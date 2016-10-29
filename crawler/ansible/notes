@@ -1,0 +1,1 @@
+ansible-playbook --private-key ~/Dropbox/password/AWS-GPU.pem -u ubuntu start_spark_slave.yaml -i inventory.ini
